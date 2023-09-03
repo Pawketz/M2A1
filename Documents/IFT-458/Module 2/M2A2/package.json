@@ -1,0 +1,19 @@
+{
+  "name": "m2a2",
+  "version": "1.0.0",
+  "description": "Module 2 Assignment 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pawketz/M2A2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pawketz/M2A2/issues"
+  },
+  "homepage": "https://github.com/Pawketz/M2A2#readme"
+}
